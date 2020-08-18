@@ -1,1 +1,2 @@
-# Ball-in-the-Bin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
